@@ -1,0 +1,26 @@
+{
+  "name": "Sally Stone",
+  "age": 18,
+  "address": {
+    "street": "Pekore Manor",
+    "city": "Hujzigim",
+    "state": "MI",
+    "zip": "66176"
+  },
+  "contact": {
+    "phone": "(880) 888-8190",
+    "servicePhone": "800864563"
+  },
+  "birthday": "1996-11-26T14:00:12.798Z",
+  "ip": "91.199.161.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi ej risseavi kipi jofra lapar wava curuhru geg me cokdaf kihsinha pohpupehu kuocavoj. Po lo pivlejov ce beka muji du fub somsuas pucwugef uw izuuz pap lemnedra adu go. Bi tumruhken zapuha loegpov jeispun jeg pudsoal vis fa jar gu fifriz jesic. Fo wef ite bi guvuppuk hadzehe hiwaeki jarosul rikiv ja hizoup dohtenhef opeuzfaj es sa mok cighedi. Tevap jaf raipoce jize gude rimgovuj jenhait nepor um rohab nipajbob pu jakip hawnuwfu hapipuc. Badne iteowja uleguti mu gahfolsa hafomigu efdazkal atbov atamow fuj wopure tukare zerev. Bij imno gu fiwbi mefpoapo kelvi tuzzopaz fodciv cinrah laphonop isboke wi pac ujfuhu car.",
+    "bio": "Gog buloaf ra ugubowef zamhiasi loczofzeg jef ru gacevmub zop se wos fah hotmehvow. Si ev rigzo goregjet halad pe sono lisde dugkegvu sopac tuj zowjotep pa wocir tuza duor owbuk hajto. Pu dah kajlili iw hogdose erachow duconon goibjo zopuuh kemlorhow namzil raba luzgifah tuhturub lo vorze he ado. Erhatpi fika wuhma hihsup biun vaz lukbik som ine zica rih vik ju ki rivanaz tumapuvo gutsak. Hota tergo jabkegzo ijpig bud daudovu paunu bahgisit nacubbit me lap wufmij badbi. Cil ugauf liv cidefuam haduszo lurul gon va hevij sabu dej zofher je je jipbibluv ko nuvmutpe arzaj."
+  },
+  "apiKey": "66d5c9c671125f2a76498225b1a9ccda3d22f2e24c6f1900a2dbd1c29fb723b3",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
