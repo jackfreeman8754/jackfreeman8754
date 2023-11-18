@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Nelson",
+  "age": 57,
+  "address": {
+    "street": "Pifa Circle",
+    "city": "Posaka",
+    "state": "TN",
+    "zip": "18572"
+  },
+  "contact": {
+    "phone": "(357) 507-4159",
+    "servicePhone": "800763161"
+  },
+  "birthday": "1971-10-17T23:57:26.457Z",
+  "ip": "43.131.110.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Vikohu fi tigfolwun pancem pus pevcov valti cogan keikabuv tuzafev viroj vov bannevbi. Eduti foddavoje verdo ununu nehezu wal bicudlim tav jig cudpe ohfet mah zobim. Ucni rutib cehumo efekito ewaberva cuj esoloc gawvihi hekmozpa razac wupag lu. Alrecuw jefrabemo pasofki liwow ifluc jazodva bokafi cem canukic bi faze riajogo ta kizdinke aw zadavcig situc.",
+    "bio": "Lutcibged fezopcid huestu zielala pehnujbur rukivja va bit jajo wa mik taw lomsi. Hup er loivu bo naja ufejurmo hekithu febmu repub fef nolvig imuju ufo. Cu lojjus gizju fodbudigo bepum vihiscaj vohumiso be ib puv diimu ca kizgenbe olhuof vap fise. Sowuhu arov uci faon dojek riki wod la usoofemo me cukvabik vu rasaspan ehetvur ronatpo. Paka cu awde gijissal buseduzo uwgil fosofva ri sifucto doj voammoc avo vemer vutkotme juuj wouji pibuzap co."
+  },
+  "apiKey": "af2eefff3461a9be63ce2b7535e3a1f0aeb11ca6beef1a3f6357e9f8bd05a67a",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
