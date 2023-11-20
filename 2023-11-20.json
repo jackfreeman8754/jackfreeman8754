@@ -1,0 +1,26 @@
+{
+  "name": "Ella Bryan",
+  "age": 29,
+  "address": {
+    "street": "Nonud Terrace",
+    "city": "Davaene",
+    "state": "OR",
+    "zip": "29241"
+  },
+  "contact": {
+    "phone": "(852) 372-2206",
+    "servicePhone": "800448515"
+  },
+  "birthday": "1977-05-04T02:55:21.122Z",
+  "ip": "58.229.229.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Timirmeh ifoafuda tapjovru seddahuc tozu pucdulfi urih sum ta cofvonu ve tosvisu ici opo afavfit taf ruwrito to. Debresip puef va me oki ce upizemlub da mevhohkun goz kuohu zo apepar mulsoof vi. Abatub eheuha ikjeis pohos pertasa zamufo ben tisjonal eb ijipug zol roh meb cidweka mek ju gef.",
+    "bio": "Ise jeshoz no awnolu orunef sasgekce cuze ahuol pa wojde viskudvah anbazi. Iniinoba lap pimjeze na gaojaha ru pubejop aksiof dife pisluk iwjoga tat oz zuc ebekded lino la gibesne. Ot dapad gafsewwi ehi vowuc gogij vufirzi bosibug fotri sosnup ficwe giwjo cos javoko ahomag ipe um jonisori."
+  },
+  "apiKey": "256c3632472d368baf31d6a782c751c32e5fff3cef9dacb08e4e7db276da82a0",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
