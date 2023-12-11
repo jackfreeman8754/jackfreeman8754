@@ -1,0 +1,26 @@
+{
+  "name": "Betty Burton",
+  "age": 27,
+  "address": {
+    "street": "Azateg Point",
+    "city": "Foucahad",
+    "state": "VT",
+    "zip": "03299"
+  },
+  "contact": {
+    "phone": "(656) 729-3329",
+    "servicePhone": "800913164"
+  },
+  "birthday": "1986-12-07T20:28:30.443Z",
+  "ip": "103.203.104.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Cocot bi ric go usdo sukcu imvuun pi poz fugolrit oj vibci iketewog goldunde tien fir. Awionopi komwosru veffuf apwo deboriz ruh ubame bisi dulol epecik pucburec ukjiwlu. Ruliwoj rub wi jeimej vebmivim sadzuv viksuh awfep ji portevnam li caduspad ti mehzo pagig ninos fupkejir.",
+    "bio": "Ho okagahu duba coheci monef we dob la puru oceru ra jiweb fejbi adame. Ki citrizi onzam seg tenum mekumajo osaaw ano ve ziw at ko ba. Foh virhuku sub sisfefdab zoumi sigim vam tek judculah mavehfa liwi bakur beg uc wiha. Zab gomilof itu por fowtiiw gopag pu omhic udpezcir jabusmid wifko lu."
+  },
+  "apiKey": "9edd34bd7246ac646f617e0f8f1f0661ba6077b0d5e49b8055f02453ce7dd23b",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
