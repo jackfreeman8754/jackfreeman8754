@@ -1,0 +1,26 @@
+{
+  "name": "Sam Moreno",
+  "age": 60,
+  "address": {
+    "street": "Uktag Terrace",
+    "city": "Zubiku",
+    "state": "NC",
+    "zip": "06132"
+  },
+  "contact": {
+    "phone": "(482) 451-3168",
+    "servicePhone": "800563898"
+  },
+  "birthday": "1981-09-24T14:15:19.554Z",
+  "ip": "119.32.176.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Pozbare cu ahwivo ces ses riovaed zov zod zeno zilali duvhohre keljol suncu. Evaif ahuwefpaj idifi idjiaj vekaf oppovez soco ug ohde lizav mofecpo agefaima hasew kizmimjow bu. Lofza lojec ped gici puma kaekwi neidba deziwpo rev lekpujni bulumu zurecwu afoir upje war. Vuji nogla idmera catjuh ossinli ezi maalni higap kow nuf ju ejigguh soukufe cutap ogesopur. Pipes culu es sem abiesiocu lafnuh tad talfaltem koju asavo ref odaza peoreow. Elfig hevfupjeg doget ciopti jup igrikoj kenmaumu meb inejono omiegdu fozzi vaw goafihi molki.",
+    "bio": "Wubmup fim samed giki dep rog cip accehku meb kuhfertuc uccane pitipid ruuwruv asgobzop zo. Pozke re fub zunahtum ajdommem cufe wod usdos tesuuki figholun lushepav bacvozton lukfid igde vobhebtof hiud. Vuz pamfotu ba fezewaz im bogjin osvuvo weozras zu dumgovjow pigmu gosserif pikinohes mocsud ze. Hoz filni dusfuhub naup wil gihhu ilefo kowzoshac gotuwu ipa kudahgu luotauk ih. Bum huzce votbo oji jimuz tafovuf woce as lugtehkuh reda rawe ontov vor huc lim vi ugiwegva. Upwu nole ba imu gimzam zifbaku ucesivuw boswergub tiaj wolifa henfan foce sad le poatimo uza raz gusrutuni."
+  },
+  "apiKey": "4d80147e522cb9c2dbda23176bbb8cd2e9445b6414e29fde7a01bf9d6ef67380",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
