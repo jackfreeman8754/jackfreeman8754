@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Murray",
+  "age": 46,
+  "address": {
+    "street": "Merge Trail",
+    "city": "Seftopese",
+    "state": "VT",
+    "zip": "68541"
+  },
+  "contact": {
+    "phone": "(427) 799-6795",
+    "servicePhone": "800876537"
+  },
+  "birthday": "1979-09-21T01:47:27.025Z",
+  "ip": "144.62.101.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Datu roheweun puj luudduk delasa rodge meaho rotula ziug zedahni barnob kohpis. Fuh teujofa hu bous bok gewsip fus teucu icligo ivzo otaubere jac lojparuz gapjepga ad. Ose ib tebom wilziv belo zir tef mu gen edi ozagil hugno iripfik mo jarifeam fuf ebonal koulus. Kor ikehu uz kap dobil cadub bo we mansow saznufnu fatvelfi bozesip boras ril begeg uga. Ufulohe joahi fapmena geogedi omasi zuluhot ophe vufnam rez bokodow tenfohub jijodow sabisi. Jalube raofsu egac zewaw te bol bi uw utsaw gomesti bil ve. Minopoc dilre zihef pef fiki bevhokzo atoekubon cis hadmuila retosobi deejame peg usjabiv lopu ubvivabi.",
+    "bio": "Gemgolog lu uhwahu vorik zos uma vapgacda ki dif de ajoruw og in. Niv mahez noc delre bigmu jupfimbid fogurjud tejoil gepafa juv je erneadu ziwcuf ov to. Kuek jobbum mouzuivi ode pe tujuc baomebo wewzuima sekfe ca evarodu en fa cu dap ge."
+  },
+  "apiKey": "61dd14f1a430398f0ef3b9f73c9756ddb73a38a6f9447fa4786b617a4ed80f38",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
