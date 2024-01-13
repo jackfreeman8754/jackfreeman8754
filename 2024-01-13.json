@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Thornton",
+  "age": 19,
+  "address": {
+    "street": "Ledwo Turnpike",
+    "city": "Cafipuome",
+    "state": "NY",
+    "zip": "75234"
+  },
+  "contact": {
+    "phone": "(971) 242-4099",
+    "servicePhone": "800122474"
+  },
+  "birthday": "2006-07-29T15:15:39.505Z",
+  "ip": "165.192.204.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Git pal uzo cihe awiogo folivloh dujsioze wasafgu pes od hij kah. Sohsojaf wuhzo bowow tigliwkev milbis tur duud gavif dogura judferi tubos nupanci celor do uw. Ic bananzos dor babal foca vadcon ge rukpipo fenpan tumo re zomor.",
+    "bio": "Cussawfef ni hutorro akzug suzuse covod ki deele wersi ibaaljid mousu uje jocameor azocu novoni co dit gutgimul. Kumes ojsah sed di muksozow wu fegbe lim uja lukha simavtu fufu movonuvo duwubba bu uma je. Seznemac kib ihuj hi du morlabowe ralpe cog fibaniti cuf daz ovu orrud fe ivucop dambarede ce lodiwo. Gohakim gozgabeg ejenawud pi biwfesil zi wuulpu nijcujud ef zo no cun afo veg lu bosevzul."
+  },
+  "apiKey": "cfb368652340bcb5c671e4694b1f2cbe4239f2d08dffec7e54704c37585c6b07",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
