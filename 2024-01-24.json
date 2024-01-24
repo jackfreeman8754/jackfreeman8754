@@ -1,0 +1,26 @@
+{
+  "name": "Annie Cain",
+  "age": 57,
+  "address": {
+    "street": "Woari Path",
+    "city": "Kosduzace",
+    "state": "NM",
+    "zip": "95232"
+  },
+  "contact": {
+    "phone": "(736) 778-3220",
+    "servicePhone": "800322848"
+  },
+  "birthday": "1991-02-27T03:38:23.121Z",
+  "ip": "181.125.246.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Powa tuafote rok mobfez buzginwu ar paceeso utzajes uw lev nugzawut suki gufkiche sakfamsoh. Uka ti pidditaf ge zab lo zobogu zuemaba debekic mavse jazukilih ri jojusje. Ganezwo ce mi dowhareh apefudi ipaedu lucapi gofujras nupafa hir manloh roj.",
+    "bio": "Wugpeovo wontonu hiem vuovaci pusuglov go vi socja sijjuruke sibpogdal eho vemuk zasep rurirmuj. Wu uro icasewcub romuca lic ef ifikofta neep ma bi vewkevcuf cajwof zicup. Wup so sitaf pavoji kefougi ulauj vu vel wiscamno fi ce ga attowvag gebnewkop."
+  },
+  "apiKey": "f2bfdf78210e8843038c2d1feb7e17cc2cb1987bd4b96cae719509af28a15c19",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
