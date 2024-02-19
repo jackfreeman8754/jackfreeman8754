@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Drake",
+  "age": 30,
+  "address": {
+    "street": "Aguhi Center",
+    "city": "Mafbutub",
+    "state": "PA",
+    "zip": "04053"
+  },
+  "contact": {
+    "phone": "(931) 751-5676",
+    "servicePhone": "800594526"
+  },
+  "birthday": "2006-02-06T01:25:18.084Z",
+  "ip": "65.170.162.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Afi somkuoh adaob zifafko omenuz pan hunrujet ha ziicbur gurta kufizna obe vo ug ukasu. Popois suktacsof ot leg jidnoku elu fuzot kiwtudu gu conekijej co pasev voluv go. Hutu ciwa za tuhubov sof rukma teocasat iz hij obcemaw in fube vu kuze gad.",
+    "bio": "Wes di manmab pegisi owakoz huh odhajid cuwriha koj osaibiz segwur va piad fikwis unudilin ra. Ri ibomaw hihlohse asjiuh mi tuk no loatsij nuruli hen dokurro tiju so. Emrebgil ulo ne paczeshem juowoja siwasoh ju foti lododa olircuf viob vi jidezaep."
+  },
+  "apiKey": "bff3586b9c4312033e73b2d3d0485e16ba0ebfac6e270abd07d5c4928dd42a11",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
