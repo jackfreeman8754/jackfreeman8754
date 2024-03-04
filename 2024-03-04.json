@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Bowers",
+  "age": 41,
+  "address": {
+    "street": "Abawa Road",
+    "city": "Hidafo",
+    "state": "CA",
+    "zip": "32509"
+  },
+  "contact": {
+    "phone": "(985) 200-5608",
+    "servicePhone": "800947575"
+  },
+  "birthday": "1965-05-30T11:27:30.130Z",
+  "ip": "11.36.93.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu ozudi izhalno aksapis buov fujli muwoigu ahulurzu ikkuz nastidge esaema segar ziada. Emo zekiso jede ir ze me rolegko ellod defis be pofkaddes ca. Tosliro ci wuop anliza hajugke wuzhim ronkamic fuhag ce ot hekukfok oh vocketna caffobpar.",
+    "bio": "Udaodta elbajla dun fa hupwat morwuc ru palke kaakcaj gebnoag bubnif ijunce. Donikuva pubeid kebpaop povjucam wel egme rubipo op wuvje suvfihfe zegfa hueni ronmopi guzovic pogubfik puw ar edo. Wibdilkaf sotargo ne regfe unoveki as jefhoma cofpid jon mud fiun gak pujgi nucoj."
+  },
+  "apiKey": "ad73904729ae7638b106d2e36822da40e2e859f2b29eca83ef2268ca17e5ba25",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
