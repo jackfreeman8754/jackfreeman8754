@@ -1,0 +1,26 @@
+{
+  "name": "Chester Munoz",
+  "age": 18,
+  "address": {
+    "street": "Huvi Highway",
+    "city": "Fekorace",
+    "state": "NY",
+    "zip": "39446"
+  },
+  "contact": {
+    "phone": "(954) 618-6898",
+    "servicePhone": "800872548"
+  },
+  "birthday": "1966-06-14T11:40:14.756Z",
+  "ip": "26.238.185.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni cipwa diic rob peev taebmiv nawlaebu hevlu viifbe ekvipod enusosom ocasohrup wiad upehais geke je hez. Popcow cidradze roefe uca hade hojto atuvcuj zum apo gabbidduw magez ofeniab vo rogleig mop fegaf hube. Wiv jicme vijkulfuc bivan coug havuju ev hele lipaiw gejerec ugde misob kab oze falewer.",
+    "bio": "Mugento fi uha rirudi tegbume zimwob un ugup asivakcid ceceim nudil ti ha az vug ofawaw. Tuhop toob pihzake pa caumu hopiz emuusimur wokosa weevo ohoc zew ursif dan noh wabfe mup. Ciuhim pumwe rusu fezuwi koaze bujusos af pazho guczucu obdela kuob fiit do amho vafewla."
+  },
+  "apiKey": "db268f052b330ff793277b6b53e88de7d43967116e78548a6cb4f62cb810a315",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
